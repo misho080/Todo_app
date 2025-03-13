@@ -1,6 +1,6 @@
 
 import { useState } from "react"
-import BackgroundImage from "./components/Image/backgroundImage"
+import BackgroundImage from "./components/Image/BackgroundImage"
 import mainImage from "./assets/Bitmap.svg"
 import darkModeMainImage from "./assets/BitmapDark.svg"
 import Input from "./components/Input/Input"
